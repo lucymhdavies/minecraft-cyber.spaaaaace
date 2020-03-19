@@ -6,4 +6,4 @@ curl -L https://github.com/lucymhdavies/minecraft-cyber.spaaaaace/releases/downl
 
 echo "Extracting"
 
-tar -zxvf map.tar.gz
+tar -zxf map.tar.gz
