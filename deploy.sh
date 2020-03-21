@@ -2,7 +2,7 @@
 
 echo "Downloading Tarball"
 
-tarball="https://github.com/lucymhdavies/minecraft-cyber.spaaaaace/releases/download/2020-03-19.2350/map.tar.gz"
+tarball="https://s3-eu-west-1.amazonaws.com/minecraft-cyber.spaaaaace/2020/03/21/0145/map.tar.gz"
 
 curl -L ${tarball} > map.tar.gz
 
